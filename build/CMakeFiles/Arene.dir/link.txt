@@ -1,1 +1,0 @@
-/usr/bin/c++  -std=c++1z -Wall -Wno-unused-result -O3 -g -arch arm64 -Wl,-search_paths_first -Wl,-headerpad_max_install_names CMakeFiles/Arene.dir/arene.cpp.o -o Arene  -lz -lncurses -ltinfo
