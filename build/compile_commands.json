@@ -1,0 +1,14 @@
+[
+{
+  "directory": "/Users/fatima/Library/CloudStorage/GoogleDrive-17fatimandiaye@gmail.com/Mon Drive/Google Drive/Baccalauréat informatique/INF4230/TP3/build",
+  "command": "/usr/bin/c++ -DNDEBUG   -std=c++1z -Wall -Wno-unused-result -O3 -g -arch arm64 -o CMakeFiles/Hex.dir/main.cpp.o -c \"/Users/fatima/Library/CloudStorage/GoogleDrive-17fatimandiaye@gmail.com/Mon Drive/Google Drive/Baccalauréat informatique/INF4230/TP3/main.cpp\"",
+  "file": "/Users/fatima/Library/CloudStorage/GoogleDrive-17fatimandiaye@gmail.com/Mon Drive/Google Drive/Baccalauréat informatique/INF4230/TP3/main.cpp",
+  "output": "CMakeFiles/Hex.dir/main.cpp.o"
+},
+{
+  "directory": "/Users/fatima/Library/CloudStorage/GoogleDrive-17fatimandiaye@gmail.com/Mon Drive/Google Drive/Baccalauréat informatique/INF4230/TP3/build",
+  "command": "/usr/bin/c++ -DNDEBUG   -std=c++1z -Wall -Wno-unused-result -O3 -g -arch arm64 -o CMakeFiles/Arene.dir/arene.cpp.o -c \"/Users/fatima/Library/CloudStorage/GoogleDrive-17fatimandiaye@gmail.com/Mon Drive/Google Drive/Baccalauréat informatique/INF4230/TP3/arene.cpp\"",
+  "file": "/Users/fatima/Library/CloudStorage/GoogleDrive-17fatimandiaye@gmail.com/Mon Drive/Google Drive/Baccalauréat informatique/INF4230/TP3/arene.cpp",
+  "output": "CMakeFiles/Arene.dir/arene.cpp.o"
+}
+]
